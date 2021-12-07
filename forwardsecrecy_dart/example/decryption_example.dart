@@ -1,10 +1,3 @@
-A library for Dart developers to decrypt Sahamati Data.
-
-## Usage
-
-A simple usage example:
-
-```dart
 import 'package:forwardsecrecy_dart/forwardsecrecy_dart.dart';
 
 main() async {
@@ -27,10 +20,3 @@ main() async {
 
   print(decodedString(decryptedText));
 }
-```
-
-## Features and bugs
-
-Please file feature requests and bugs at the [issue tracker][tracker].
-
-[tracker]: https://github.com/hamirshekhawat/forwardsecrecy_dart/issues
